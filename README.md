@@ -12,4 +12,4 @@ All problems will be coded in JavaScript
 ## Problems list
 
 * Search Insert Position. ([Description](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/35_search-insert-position))
-* Valid Perfect Square. ([Description](https://leetcode.com/problems/valid-perfect-square/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/367_valid-perfect-square))
+* Valid Perfect Square. ([Description](https://leetcode.com/problems/valid-perfect-square/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/367_valid_perfect_square))
