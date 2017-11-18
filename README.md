@@ -11,4 +11,4 @@ All problems will be coded in JavaScript
 
 ## Problems list
 
-* []
+* 35. Search Insert Position. [Description](https://leetcode.com/problems/search-insert-position/description/) [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/35_search-insert-position)
