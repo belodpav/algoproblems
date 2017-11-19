@@ -15,3 +15,4 @@ All problems will be coded in JavaScript
 * Valid Perfect Square. ([Description](https://leetcode.com/problems/valid-perfect-square/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/367_valid_perfect_square))
 * Heaters. ([Description](https://leetcode.com/problems/heaters/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/475_heaters))
 * Reverse Integer. ([Description](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/7_reverse_integer))
+* Two Sum. ([Description](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/1_two_sum))
