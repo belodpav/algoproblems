@@ -17,3 +17,4 @@ All problems will be coded in JavaScript
 * Reverse Integer. ([Description](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/7_reverse_integer))
 * Two Sum. ([Description](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/1_two_sum))
 * Valid Parentheses. ([Description](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/20_valid_parentheses))
+* Min Stack. ([Description](https://leetcode.com/problems/min-stack/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/155_min_stack))
