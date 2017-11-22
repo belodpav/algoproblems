@@ -19,3 +19,4 @@ All problems will be coded in JavaScript
 * Valid Parentheses. ([Description](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/20_valid_parentheses))
 * Min Stack. ([Description](https://leetcode.com/problems/min-stack/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/155_min_stack))
 * Task Schelduler. ([Description](https://leetcode.com/problems/task-scheduler/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/621_task_schelduler))
+* Palindrome Number. ([Description](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/9_palindrome_number))
