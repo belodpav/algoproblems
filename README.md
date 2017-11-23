@@ -21,3 +21,6 @@ All problems will be coded in JavaScript
 * Task Schelduler. ([Description](https://leetcode.com/problems/task-scheduler/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/621_task_schelduler))
 * Palindrome Number. ([Description](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/9_palindrome_number))
 * Roman to Integer. ([Description](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/13_roman_to_integer))
+* Longest common prefix. ([Description](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/14_longest_common_prefix))
+* Implement strStr(). ([Description](https://leetcode.com/problems/implement-strstr/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/28_implement_strStr()))
+* Count and Say. ([Description](https://leetcode.com/problems/count-and-say/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/38_count_and_say))
