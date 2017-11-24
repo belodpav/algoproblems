@@ -24,3 +24,5 @@ All problems will be coded in JavaScript
 * Longest common prefix. ([Description](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/14_longest_common_prefix))
 * Implement strStr(). ([Description](https://leetcode.com/problems/implement-strstr/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/28_implement_strStr()))
 * Count and Say. ([Description](https://leetcode.com/problems/count-and-say/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/38_count_and_say))
+* sqrt(x). ([Description](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/69_sqrt(x)))
+* Add Binary. ([Description](https://leetcode.com/problems/add-binary/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/67_add_binary))
