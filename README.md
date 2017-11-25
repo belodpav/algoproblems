@@ -26,3 +26,5 @@ All problems will be coded in JavaScript
 * Count and Say. ([Description](https://leetcode.com/problems/count-and-say/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/38_count_and_say))
 * sqrt(x). ([Description](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/69_sqrt(x)))
 * Add Binary. ([Description](https://leetcode.com/problems/add-binary/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/67_add_binary))
+* Single Number. ([Description](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/136_single_number))
+* Plus One. ([Description](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/66_plus_one))
