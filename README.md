@@ -28,3 +28,5 @@ All problems will be coded in JavaScript
 * Add Binary. ([Description](https://leetcode.com/problems/add-binary/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/67_add_binary))
 * Single Number. ([Description](https://leetcode.com/problems/single-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/136_single_number))
 * Plus One. ([Description](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/66_plus_one))
+* Happy Number. ([Description](https://leetcode.com/problems/happy-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/202_happy_number))
+* Remove Element. ([Description](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/27_remove_element))
