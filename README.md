@@ -30,3 +30,7 @@ All problems will be coded in JavaScript
 * Plus One. ([Description](https://leetcode.com/problems/plus-one/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/66_plus_one))
 * Happy Number. ([Description](https://leetcode.com/problems/happy-number/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/202_happy_number))
 * Remove Element. ([Description](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/27_remove_element))
+* Length of last word. ([Description](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/58_length_of_last_word))
+* Number of 1 bits. ([Description](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/191_number_of_bits))
+* Valid Palindrome. ([Description](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/125_valid_palindrome))
+* Valid Palindrome II. ([Description](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/680_valid_palindrome-II))
