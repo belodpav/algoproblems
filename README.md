@@ -34,3 +34,5 @@ All problems will be coded in JavaScript
 * Number of 1 bits. ([Description](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/191_number_of_bits))
 * Valid Palindrome. ([Description](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/125_valid_palindrome))
 * Valid Palindrome II. ([Description](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/680_valid_palindrome-II))
+* Maximum Subarray. ([Description](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/53_maximum_subarray))
+* Remove Duplicates From Sorted Array. ([Description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/26_remove_duplicates_from_sorted_array))
