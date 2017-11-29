@@ -36,3 +36,5 @@ All problems will be coded in JavaScript
 * Valid Palindrome II. ([Description](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/680_valid_palindrome-II))
 * Maximum Subarray. ([Description](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/53_maximum_subarray))
 * Remove Duplicates From Sorted Array. ([Description](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/26_remove_duplicates_from_sorted_array))
+* Pascal's Triangle. ([Description](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/118_pascal_triangle))
+* Climbing Stairs. ([Description](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/70_climbing_stairs))
