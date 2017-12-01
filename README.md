@@ -39,3 +39,4 @@ All problems will be coded in JavaScript
 * Pascal's Triangle. ([Description](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/118_pascal_triangle))
 * Climbing Stairs. ([Description](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/70_climbing_stairs))
 * Remove Duplicates From Sorted List. ([Description](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/83_remove_duplicates_from_sorted_list))
+* Same Tree. ([Description](https://leetcode.com/problems/same-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/100_same_tree))
