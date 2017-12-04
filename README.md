@@ -42,3 +42,5 @@ All problems will be coded in JavaScript
 * Same Tree. ([Description](https://leetcode.com/problems/same-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/100_same_tree))
 * Rotate Image. ([Description](https://leetcode.com/problems/rotate-image/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/48_rotate_image))
 * Add Two Numbers. ([Description](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/2_add_two_numbers))
+* Generate Parentheses. ([Description](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/22_generate_parentheses))
+* Implement Queue using Stacks. ([Description](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/232_implement_queue_using_stacks))
