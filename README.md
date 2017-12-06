@@ -44,3 +44,5 @@ All problems will be coded in JavaScript
 * Add Two Numbers. ([Description](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/2_add_two_numbers))
 * Generate Parentheses. ([Description](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/22_generate_parentheses))
 * Implement Queue using Stacks. ([Description](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/232_implement_queue_using_stacks))
+* Maximum Depth of Binary Tree. ([Description](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/104_maximum_depth_of_binary_tree))
+* Symmetric Tree. ([Description](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/101_symmetric_tree))
