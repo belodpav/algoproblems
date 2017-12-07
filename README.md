@@ -46,3 +46,4 @@ All problems will be coded in JavaScript
 * Implement Queue using Stacks. ([Description](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/232_implement_queue_using_stacks))
 * Maximum Depth of Binary Tree. ([Description](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/104_maximum_depth_of_binary_tree))
 * Symmetric Tree. ([Description](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/101_symmetric_tree))
+* Merge Two Sorted Lists. ([Description](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/21_merge_two_sorted_lists))
