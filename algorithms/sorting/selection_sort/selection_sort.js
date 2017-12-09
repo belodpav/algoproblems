@@ -21,6 +21,12 @@ function selectionSort(a) {
 }
 
 // Swap two items in an array
+/**
+ * @param  {number[]} a
+ * @param  {number} x
+ * @param  {number} y
+ * @return {}
+*/
 function swap(a, x, y) {
   if (a[x] === a[y]) return;
   a[x] = a[x] ^ a[y];
