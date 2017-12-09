@@ -8,6 +8,15 @@ All problems will be coded in JavaScript
  
 ##### Problems sourses:
  * [LeetCode](https://leetcode.com/)
+ 
+## Algorithms
+
+This section contains algorithms in JavaScript
+
+### Sorting Alogorithms
+
+* [Insertion Sort]()
+
 
 ## Problems list
 
