@@ -1,4 +1,4 @@
-# Algoritms and Problems
+# Algorithms and Problems
 
 All problems will be coded in JavaScript
 
