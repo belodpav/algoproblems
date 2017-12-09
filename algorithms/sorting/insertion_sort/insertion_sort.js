@@ -8,24 +8,13 @@
  * @return {}
  */
 function insertionSort(a) {
+  var key;
   for (let i = 1; i < a.length; i++) {
-    for (let j = i; j > 0 && a[j] < a[j-1]; j--) {
-        swap(a, j - 1, j);
+    key = a[i];
+    for (var j = i - 1; j >= 0 && key < a[j]; j--) {
+        a[j + 1] = a[j];
     }
+    a[j + 1] = key;
   }
 }
 
-// Swap two items in an array
-/**
- * @param  {number[]} a
- * @param  {number} x
- * @param  {number} y
- * @return {}
-*/
-
-function swap(a, x, y) {
-  if (a[x] === a[y]) return;
-  a[x] = a[x] ^ a[y];
-  a[y] = a[x] ^ a[y];
-  a[x] = a[x] ^ a[y];
-}
