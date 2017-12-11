@@ -58,3 +58,5 @@ This section contains algorithms in JavaScript
 * Symmetric Tree. ([Description](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/101_symmetric_tree))
 * Merge Two Sorted Lists. ([Description](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/21_merge_two_sorted_lists))
 * Best Time to Buy and Sell Stock. ([Description](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/121_best_time_to_buy_and_sell_stock))
+* Balanced Binary Tree. ([Description](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/110_balanced_binary_tree))
+* Minimum Depth of Binary Tree. ([Description](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/111_minimum_depth_of_binary_tree))
