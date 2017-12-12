@@ -17,7 +17,8 @@ This section contains algorithms in JavaScript
 
 * [Selection Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/selection_sort)
 * [Insertion Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/insertion_sort)
-
+* [Merge Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/merge_sort)
+* [Quick Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/quick_sort)
 
 ## Problems list
 
