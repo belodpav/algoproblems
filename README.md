@@ -20,6 +20,12 @@ This section contains algorithms in JavaScript
 * [Merge Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/merge_sort)
 * [Quick Sort](https://github.com/belodpav/algoproblems/tree/master/algorithms/sorting/quick_sort)
 
+## Data Structures
+
+This section contains data stuctures in JavaScript
+
+* [Linked List]()
+
 ## Problems list
 
 * Search Insert Position. ([Description](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/belodpav/algoproblems/tree/master/problems/35_search-insert-position))
