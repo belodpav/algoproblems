@@ -24,7 +24,7 @@ This section contains algorithms in JavaScript
 
 This section contains data stuctures in JavaScript
 
-* [Linked List]()
+* [Linked List](https://github.com/belodpav/algoproblems/tree/master/data-structures/linked-lists)
 
 ## Problems list
 
