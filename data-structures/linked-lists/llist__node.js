@@ -1,6 +1,6 @@
 var ListNode = (function() {
   'use strict';
-  function Node( data ) {
+  function Node(data) {
     this.data = data;
     this.next = null;
   }

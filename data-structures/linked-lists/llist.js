@@ -3,8 +3,8 @@ var LinkedList = (function( ListNode ) {
   /**
    * LInked List Constructor
    */
-  function LList( ) {
-    this._head = new ListNode( 'head' );
+  function LList() {
+    this._head = new ListNode('head');
   }
 
   /**
@@ -17,12 +17,12 @@ var LinkedList = (function( ListNode ) {
    * @param {*} value
    * @return {}
    */
-  LList.prototype.push = function( value ) {
+  LList.prototype.push = function(value) {
     var currentNode = this._head;
-    while( currentNode.next ) {
+    while(currentNode.next) {
       currentNode = currentNode.next;
     }
-    currentNode.next = new ListNode( value );
+    currentNode.next = new ListNode(value);
   };
   /**
    * Convert Linked list to string and get the string
@@ -36,7 +36,7 @@ var LinkedList = (function( ListNode ) {
     s = '';
     currentNode = this._head;
     currentNode = currentNode.next;
-    while( currentNode && currentNode.next ) {
+    while(currentNode && currentNode.next) {
       s += currentNode.data + ' -> ';
       currentNode = currentNode.next;
     }
@@ -52,13 +52,30 @@ var LinkedList = (function( ListNode ) {
    * @param {*} item
    * @return {Boolean}
    */
-  LList.prototype.insertAfter = function( newElement, item ) {
+  LList.prototype.insertAfter = function(newElement, item) {
     var currentNode, newNode;
-    newNode = new ListNode( newElement );
-    currentNode = find.call( this, item );
-    if ( !currentNode ) return false; 
+    newNode = new ListNode(newElement);
+    currentNode = find.call(this, item);
+    if (!currentNode) return false; 
     newNode.next = currentNode.next;
     currentNode.next = newNode;
+    return true;
+  };
+  /**
+   * Removing an element after choosen element. 
+   * Returns true if element was removed after choosen element
+   * and false if choosen element is not found;
+   *
+   * @param {*} item
+   * @return {Boolean}
+   */
+  LList.prototype.remove = function(item) {
+    var currentNode;
+    currentNode = findPrev.call(this, item);
+    if (!currentNode) return false;
+    if (currentNode.next) {
+      currentNode.next = currentNode.next.next;
+    }
     return true;
   };
   /**
@@ -71,14 +88,28 @@ var LinkedList = (function( ListNode ) {
    * @param {*} value
    * @return {ListNode}
    */
-  function find( value ) {
+  function find(value) {
     var currentNode = this._head;
-    while( currentNode && currentNode.data !== value ) {
+    while(currentNode && currentNode.data !== value) {
       currentNode = currentNode.next;
     }
 
     return currentNode;
   }
+  /**
+   * Find Node before Node with certain value
+   *
+   * @param {*} value
+   * @return {ListNode}
+   */
+  function findPrev(value) {
+    var currentNode = this._head;
+    while(currentNode.next && currentNode.next.data !== value) {
+      currentNode = currentNode.next;
+    }
+    
+    return currentNode;
+  }
 
   return LList;
-})( ListNode );
+})(ListNode);
